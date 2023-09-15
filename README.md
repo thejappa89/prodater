@@ -30,6 +30,7 @@ O objetivo é auxiliar o repasse de produto ao ser inserido a data manual ou aut
 ## :man_technologist: **Desenvolvedor**
 <p align='center'><a href='http://www.gihub.com/thejappa89/' target='_new'><img src='https://avatars.githubusercontent.com/u/97266986?v=4' width='25%' style='border-radius:50%'></img><br>Henrique Lima</p></a>
 <br>
+
 ## :coffee: **Apoie o projeto**
 Clique no link abaixo e apoie o projeto me pagando um cafezinho :smile:.
 
