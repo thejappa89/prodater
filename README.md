@@ -29,3 +29,5 @@ O objetivo é auxiliar o repasse de produto ao ser inserido a data manual ou aut
 
 ## :man_technologist: **Desenvolvedor**
 <p align='center'><a href='http://www.gihub.com/thejappa89/' target='_new'><img src='https://avatars.githubusercontent.com/u/97266986?v=4' width='25%' style='border-radius:50%'><br>Henrique Lima</p>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jappadev" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
