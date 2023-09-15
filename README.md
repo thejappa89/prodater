@@ -25,9 +25,12 @@ Script desenvolvido para facilitar consulta simples e rápida da validade de pro
 O objetivo é auxiliar o repasse de produto ao ser inserido a data manual ou automática e descobrir sua validade.<br><br>
 
 ## :hammer_and_wrench: **Ferramenta utilizada**
-<img src='assets/img/python_logo.png' width='7%'><br><br>
+<img src='assets/img/python_logo.png' width='7%'></img><br><br>
 
 ## :man_technologist: **Desenvolvedor**
-<p align='center'><a href='http://www.gihub.com/thejappa89/' target='_new'><img src='https://avatars.githubusercontent.com/u/97266986?v=4' width='25%' style='border-radius:50%'><br>Henrique Lima</p>
+<p align='center'><a href='http://www.gihub.com/thejappa89/' target='_new'><img src='https://avatars.githubusercontent.com/u/97266986?v=4' width='25%' style='border-radius:50%'></img><br>Henrique Lima</p></a>
+<br>
+## :coffee: **Apoie o projeto**
+Clique no link abaixo e apoie o projeto me pagando um cafezinho :smile:.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jappadev" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/jappadev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jappadev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
